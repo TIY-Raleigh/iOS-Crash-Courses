@@ -15,7 +15,6 @@
 * [GitHub: `al-the-x`](http://j.mp/al_the_x--github)
 
 ---
-![The Iron Yard](https://dl.dropboxusercontent.com/u/255181/tiy-logo-square.png)
 
 # What is iOS Development?
 
@@ -24,28 +23,24 @@
 ^ Nutshell / Elevator Pitch Explanation (just read it); unpack the important parts together
 
 ---
-![The Iron Yard](https://dl.dropboxusercontent.com/u/255181/tiy-logo-square.png)
 
 # What is iOS Development?
 
 ## The process of _designing_ and building native applications for the Apple ecosystem.
 
 ---
-![The Iron Yard](https://dl.dropboxusercontent.com/u/255181/tiy-logo-square.png)
 
 # What is iOS Development?
 
 ## The process of designing and _building_ native applications for the Apple ecosystem.
 
 ---
-![The Iron Yard](https://dl.dropboxusercontent.com/u/255181/tiy-logo-square.png)
 
 # What is iOS Development?
 
 ## The process of designing and building _native applications_ for the Apple ecosystem.
 
 ---
-![The Iron Yard](https://dl.dropboxusercontent.com/u/255181/tiy-logo-square.png)
 
 # What is iOS Development?
 
