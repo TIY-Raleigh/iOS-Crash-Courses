@@ -4,6 +4,6 @@ This is the repository for all the free Crash Courses for iOS. Here you'll find 
 
 ### Upcoming Crash Courses
 
-* [3/10 -- Intro to Swift](../tree/2016-03-10--intro-to-swift)
+* [3/10 -- Intro to Swift](https://github.com/TIY-Raleigh/iOS-Crash-Courses/tree/2016-03-10--intro-to-swift)
 
 ### Past Crash Courses
