@@ -16,3 +16,26 @@
 **THEN** just print the number
 
 */
+func fizzbuzz (n: Int) -> String {
+    if ( n % 5 == 0 && n % 3 == 0 ){
+        return String(n) + " FizzBuzz";
+    }
+    
+    if ( n % 5 == 0 ){
+        return String(n) + " Buzz";
+    }
+    
+    if ( n % 3 == 0 ){
+        return String(n) + " Fizz";
+    }
+    
+    return String(n);
+
+}
+
+import Foundation;
+for n in 1...100 {
+    print(fizzbuzz(n));
+    //: This is a sine wave. I needed it.
+    sin(Double(n) / M_PI);
+}
