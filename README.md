@@ -4,6 +4,9 @@ This is the repository for all the free Crash Courses for iOS. Here you'll find 
 
 ### Upcoming Crash Courses
 
-* [3/30 -- Intro to Swift: FizzBuzz](https://github.com/TIY-Raleigh/iOS-Crash-Courses/tree/2016-03-30--intro-to-swift)
+* ??/?? -- Advanced Swift: Tailored Swift
 
 ### Past Crash Courses
+
+* [3/30 -- Intro to Swift: FizzBuzz](https://github.com/TIY-Raleigh/iOS-Crash-Courses/tree/2016-03-30--intro-to-swift)
+
